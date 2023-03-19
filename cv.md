@@ -37,6 +37,7 @@ ___
 - If to say about language practice, I had to speak with people being in Europe, during phone calls and chatting through social networks
 #### **Czech Level**
 - A2
+- No language practice
 
 #### **Example of Code**
 ```

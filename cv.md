@@ -11,7 +11,7 @@ ___
 
 #### **About Me**
 > I decided to be a Front-End Developer because of many reasons: it helps me develop my brain creating something depending only on my own imagination, let me think outside the box, I can gain a lot of experience working in such sphere etc. I'm not really a newcomer in programming  though, but I know that everithing is changing and I will develop my skills and knowledge as much as possible. I want to create something special and non-standart. I want to change the World and leave mark in history.
- 
+
 #### **Skills**
 
 | Hard | Soft |

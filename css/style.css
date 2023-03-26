@@ -1,36 +1,24 @@
-body 
+body
 {
     background: rgb(248, 225, 185);
 }
-
-
-
 .link
 {
     color : rgb(0, 0, 0);
 }
-
-
-
 .link:hover
 {
     color:rgb(248, 225, 185);
     text-decoration-color:rgb(248, 225, 185);
 }
-
-
-
-h1, h2 
+h1, h2
 {
     color: rgb(248, 225, 185);
     padding: 5px;
     position: relative;
     left: 70px;
     top: 40px;
-}  
-
-
-
+}
  #top
  {
     border-radius: 25px;
@@ -38,9 +26,6 @@ h1, h2
     height: 200px;
     float: top;
  }
-
-
-
   #right
  {
     background-color: rgb(169, 133, 63);
@@ -51,9 +36,6 @@ h1, h2
     padding-left: 50px;
     padding-top: 50px;
  }
-
-
-
   #left
  {
     float: left;
@@ -62,27 +44,20 @@ h1, h2
     padding-left: 40px;
     padding-top: 10px;
  }
-
-
   .block
   {
     position: relative;
   }
-
-
   #table
   {
     padding-left: 20px;
   }
-
   #img
   {
     height: 400px;
     width: 400px;
     padding-bottom: 20px;
   }
-
-
   #education
   {
     border-style: outset;

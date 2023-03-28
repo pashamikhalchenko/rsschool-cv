@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pashamikhalchenko.github.io/rsschool-cv/
